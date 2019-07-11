@@ -1,4 +1,4 @@
-The Goal of this project is to show your understanding of the material that you have learned over the last 8 weeks.  You will have 3 tasks to fulfill within this project.
+The Goal of this project is to show your understanding of the material that you have learned over the last 12 weeks.  You will have 3 tasks to fulfill within this project.
 
 The follwing questions should be answered using what you have learned:
     1. As of 2017, the last year in this data, What are the 10 most popular names? Display this data in a bar graph showing Name on x-axis and Counts on y-axis.
