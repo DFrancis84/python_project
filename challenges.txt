@@ -2,7 +2,7 @@ The Goal of this project is to show your understanding of the material that you 
 
 The follwing questions should be answered using what you have learned:
     1. As of 2017, the last year in this data, What are the 10 most popular names? Display this data in a bar graph showing Name on x-axis and Counts on y-axis.
-    2. What were the 5 most popular Male and Female names for the year you were born? Display this data in 2 seperate pie-charts showing Name and Count.
+    2. What were the 5 most popular Male and Female names for the year you were born? (If your year isn't listed, please pick the closest available) Display this data in 2 seperate pie-charts showing Name and Count.
     3. Pick a name that is both Male and Female. Display, in a one comparitive line-graph, the progression of that name between the years 2000 and 2017. Years should be on the x-axis and Counts on the y-axis.
 
 You should provide a brief comment of what you are doing or trying to complete above each cell. Even if it is as little as creating the database, put that as a comment.  This helps to understand the flow of a project.
